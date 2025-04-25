@@ -1,0 +1,30 @@
+{
+  "badgeTemplate": "\t<a href=\"#contributors\" target=\"_blank\"><img alt=\"👪 All Contributors: <%= contributors.length %>\" src=\"https://img.shields.io/badge/%F0%9F%91%AA_all_contributors-<%= contributors.length %>-21bb42.svg\" /></a>",
+  "commitType": "docs",
+  "contributors": [
+    {
+      "avatar_url": "https://avatars.githubusercontent.com/u/60138000?v=4",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "projectManagement",
+        "tool"
+      ],
+      "login": "renatougaz",
+      "name": "Renato Ugaz Huaringa",
+      "profile": ""
+    }
+  ],
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "files": [
+    "README.md"
+  ],
+  "projectName": "lucida-app",
+  "projectOwner": "renatougaz",
+  "repoType": "github"
+}
